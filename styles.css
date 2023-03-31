@@ -18,7 +18,7 @@ li > a{
 }
 
 header:not(.title), main{
-    padding: 50px;
+    padding: 50px;  
 }
 
 .nav-list > li{
@@ -36,4 +36,8 @@ p{
 
 .bold{
     font-weight: bold;
+}
+
+body{
+    margin: 0;
 }
