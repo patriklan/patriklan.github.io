@@ -8,8 +8,17 @@
     scroll-behavior: smooth;
 }
 
+header{
+    background-color: #002B5B;
+    color: #F9F5EB;
+}
+
+li > a{
+    color: #E4DCCF;
+}
+
 header:not(.title), main{
-    margin: 50px;
+    padding: 50px;
 }
 
 .nav-list > li{
