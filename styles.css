@@ -13,7 +13,7 @@ header{
     color: #F9F5EB;
 }
 
-li > a{
+a{
     color: #EA5455;
 }
 
@@ -39,5 +39,9 @@ p{
 }
 
 body{
+    margin: 0;
+}
+
+#mic-section > p{
     margin: 0;
 }
