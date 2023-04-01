@@ -14,10 +14,10 @@ header{
 }
 
 li > a{
-    color: #E4DCCF;
+    color: #EA5455;
 }
 
-header:not(.title), main{
+header:not(.title), main, nav{
     padding: 50px;  
 }
 
